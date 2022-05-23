@@ -63,15 +63,16 @@ a{
     margin-left: 50px;
 }
 
-.block_text h2{
+.a1{
     font-size: 42px;
+    color: #fff;
 }
 
 .block_text p{
     font-size: 18px;
 }
 
-.block_item a{
+.block_item .a{
     position: absolute;
     bottom: 5px;
     right: 5px;
